@@ -10,8 +10,8 @@ function App() {
 
       <div className="content">
         <p>
-          Ofereça <strong>spots</strong> para programadores e encontre 
-          <strong>talentos</strong> para sua empresa
+          Ofereça <strong>spots</strong> para programadores e 
+          encontre <strong>talentos</strong> para sua empresa
         </p>
 
         <form>
